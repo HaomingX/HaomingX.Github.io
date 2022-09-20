@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title></title>
+      <link href="/2022/09/20/github+hexo+butterfly%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <url>/2022/09/20/github+hexo+butterfly%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
+      
+        <content type="html"><![CDATA[<hr><p>突然想到搭建一个博客玩，其实之前也在csdn上发过一点，但是没坚持下来，太失败了</p><p>希望这次可以坚持下来，下面记录一下搭建过程</p><hr><h3 id="环境准备"><a href="#环境准备" class="headerlink" title="环境准备"></a>环境准备</h3><p>1.github账号</p><p>2.nodejs, npm（版本别太低）</p><p>上网搜具体的安装教程，肯定比我写得好</p><h3 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h3><p>1.创建username.github.io的项目（记住username跟你github名称同名）</p><p>2.在合适的地方新建一个文件夹，用来存放自己的博客文件，我的放在<code>D:\blog</code>下</p><p><strong>在该目录下</strong></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-cli -g</span><br></pre></td></tr></table></figure><p>可能会有几个报错，忽略</p><p>安装完后用 hexo -v验证是否安装成功</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
