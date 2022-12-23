@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>csapp_CouseOverview.md</title>
+      <title>csapp_CouseOverview</title>
       <link href="/2022/12/23/csapp-CouseOverview-md/"/>
       <url>/2022/12/23/csapp-CouseOverview-md/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<hr><hr><p>写在前面; 今天是12.23，经历了新冠的抗争后开始学习csapp，教材课程及练习都使用CMU 15-213。希望能在这个寒假学习完毕</p><hr><h3 id="Ints-are-not-Interagers-Float-are-not-Reals"><a href="#Ints-are-not-Interagers-Float-are-not-Reals" class="headerlink" title="Ints are not Interagers, Float are not Reals"></a>Ints are not Interagers, Float are not Reals</h3><p>Example 1:</p><ul><li>Float’s : Yes!</li><li>Int’s:<ul><li>40000 * 40000 -&gt; 1600000000</li><li>50000 * 50000 -&gt; ??</li></ul></li></ul><p>Example 2:  Is (x + y) + z &#x3D; x + (y  + z )   ?</p><ul><li>Int’s:: Yes!</li><li>Float’s : Not Sure!!</li></ul><p>Float will throw the more number!</p><h3 id="Memory-Referencing-Bug-Example"><a href="#Memory-Referencing-Bug-Example" class="headerlink" title="Memory Referencing Bug Example"></a>Memory Referencing Bug Example</h3><p><img src="https://haoming2003.oss-cn-hangzhou.aliyuncs.com/202212231500118.png" alt="image-20221223150035984"></p><p><img src="https://haoming2003.oss-cn-hangzhou.aliyuncs.com/202212231513136.png" alt="image-20221223151356105"></p><p><strong>For sure, this is influenced by your gcc version and IDE</strong>.</p>]]></content>
       
       
       
